@@ -1,0 +1,23 @@
+{
+  "name": "template-1",
+  "version": "1.0.0",
+  "description": "Improving HTML/CSS skill.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobslegend61/template-1.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Alabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobslegend61/template-1/issues"
+  },
+  "homepage": "https://github.com/Bobslegend61/template-1#readme"
+}
