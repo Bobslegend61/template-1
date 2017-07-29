@@ -1,2 +1,2 @@
 # HTML / CSS
-Improvind HTML and CSS skill
+Improving HTML and CSS skill
